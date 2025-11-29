@@ -6,6 +6,7 @@ About Me
 <h1> Hello! I'm Klein C. Balazon </h1>
     <p> I'm still a beginner at coding and more it related things. I'm currently taking the BS Information Technology Program. Looking forward to learning more!
     <p></p>
+  <hr>
      <p> int favDigit = 3;
 String favIdol = "Kasane Teto"
 
